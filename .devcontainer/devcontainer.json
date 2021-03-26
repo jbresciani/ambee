@@ -1,0 +1,62 @@
+// For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.134.0/containers/python-3
+{
+	"name": "Python 3",
+	"build": {
+		"dockerfile": "../Dockerfile",
+		"context": "..",
+		"args": {
+			"VARIANT": "3.8"
+		}
+	},
+	"runArgs": ["--env-file","${localWorkspaceFolder}/secrets/devcontainer.env"],
+	// Set *default* container specific settings.json values on container create.
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/bash",
+		"python.pythonPath": "/usr/local/bin/python",
+		"python.formatting.autopep8Enabled": true,
+		"python.formatting.autopep8Path": "/usr/local/bin/autopep8",
+		"python.formatting.blackEnabled": true,
+		"python.formatting.blackPath": "/usr/local/bin/black",
+		"python.linting.enabled": true,
+		"python.linting.pylintEnabled": true,
+		"python.linting.pylintPath": "/usr/local/bin/pylint",
+		"python.linting.pydocstyleEnabled": true,
+		"python.linting.pydocstylePath": "/usr/local/bin/pydocstyle",
+		"python.linting.flake8Enabled": true,
+		"python.linting.flake8Path": "/usr/local/bin/autopep8",
+		"python.linting.pycodestyleEnabled": true,
+		"python.linting.pycodestylePath": "/usr/local/bin/flake8",
+		"python.linting.pylintArgs": [
+			"--load-plugins",
+			"pylint_django"
+		],
+		"python.linting.pycodestyleArgs": ["--ignore=E501"], // E501 is line to long
+		"[python]": {
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			}
+		}
+	},
+	"mounts": [
+		"source=${localWorkspaceFolder}/secrets/,target=/etc/service_accounts/,type=bind,consistency=cached"
+	],
+	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
+	"remoteUser": "root",
+	
+	//commands to run before the container is created
+	//"initializeCommand": "${localWorkspaceFolder}/vault.sh",
+	
+	// Use 'postCreateCommand' to run commands after the container is created.
+	"postCreateCommand": "apt-get update && apt-get install -y git && pip --disable-pip-version-check --no-cache-dir install -r /tmp/requirements-dev.txt",
+	
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+		"ms-azuretools.vscode-docker",
+		"ms-python.python",
+		"mohsen1.prettify-json"
+	],
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	"forwardPorts": [8000],
+}
