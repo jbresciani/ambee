@@ -126,12 +126,10 @@ def get_ambee_latest_data(city, data_type, from_date=None, to_date=None):
 
 
 city = "victoria"
-data_types = ["weather"]  # "air", "pollen"
-# ("2021-03-14 00:00:00", "2021-03-17 23:59:59"),
-time_ranges = [("2021-03-18 00:00:00", "2021-03-21 23:59:59"), ("2021-03-22 00:00:00", "2021-03-25 23:59:59")]
+data_types = ["air", "weather", "pollen"]
+time_ranges = [("2021-03-26 00:00:00", "2021-03-29 23:59:59")]
 for time_range in time_ranges:
     for data_type in data_types:
         ambee_data = get_ambee_historical_data(city, data_type, time_range[0], time_range[1])
-        # print(json.dumps(ambee_data, indent=2))
-        with open(f"{data_type}-{time_range[0].split(' ')[0]}to{time_range[1].split(' ')[0]}", 'w') as outfile:
+        with open(f"{data_type}-{time_range[0].split(' ')[0]}to{time_range[1].split(' ')[0]}.json", 'w') as outfile:
             json.dump(ambee_data, outfile)
