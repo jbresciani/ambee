@@ -1,0 +1,1337 @@
+{
+    "message": "success",
+    "lat": 48.407326,
+    "lng": -123.329773,
+    "data": [
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 397,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616720400,
+            "createdAt": "2021-03-26T01:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 459,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616724000,
+            "createdAt": "2021-03-26T02:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 309,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616727600,
+            "createdAt": "2021-03-26T03:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 430,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616731200,
+            "createdAt": "2021-03-26T04:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 451,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616734800,
+            "createdAt": "2021-03-26T05:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 456,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616738400,
+            "createdAt": "2021-03-26T06:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 382,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616742000,
+            "createdAt": "2021-03-26T07:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 458,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616745600,
+            "createdAt": "2021-03-26T08:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 310,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616749200,
+            "createdAt": "2021-03-26T09:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 358,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616752800,
+            "createdAt": "2021-03-26T10:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 461,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616756400,
+            "createdAt": "2021-03-26T11:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 367,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616760000,
+            "createdAt": "2021-03-26T12:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 374,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616763600,
+            "createdAt": "2021-03-26T13:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 306,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616767200,
+            "createdAt": "2021-03-26T14:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 316,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616770800,
+            "createdAt": "2021-03-26T15:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 0,
+                "tree_pollen": 212,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616774400,
+            "createdAt": "2021-03-26T16:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 358,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616778000,
+            "createdAt": "2021-03-26T17:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 454,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616781600,
+            "createdAt": "2021-03-26T18:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 369,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616785200,
+            "createdAt": "2021-03-26T19:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 457,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616788800,
+            "createdAt": "2021-03-26T20:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 367,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616792400,
+            "createdAt": "2021-03-26T21:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 393,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616796000,
+            "createdAt": "2021-03-26T22:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 452,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616799600,
+            "createdAt": "2021-03-26T23:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 633,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616803200,
+            "createdAt": "2021-03-27T00:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 455,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616806800,
+            "createdAt": "2021-03-27T01:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 454,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616810400,
+            "createdAt": "2021-03-27T02:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 3,
+                "tree_pollen": 775,
+                "weed_pollen": 4
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "Very High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616814000,
+            "createdAt": "2021-03-27T03:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 416,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616817600,
+            "createdAt": "2021-03-27T04:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 423,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616821200,
+            "createdAt": "2021-03-27T05:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 567,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616824800,
+            "createdAt": "2021-03-27T06:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 491,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616828400,
+            "createdAt": "2021-03-27T07:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 393,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616832000,
+            "createdAt": "2021-03-27T08:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 418,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616835600,
+            "createdAt": "2021-03-27T09:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 439,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616839200,
+            "createdAt": "2021-03-27T10:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 482,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616842800,
+            "createdAt": "2021-03-27T11:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 434,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616846400,
+            "createdAt": "2021-03-27T12:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 449,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616850000,
+            "createdAt": "2021-03-27T13:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 3,
+                "tree_pollen": 779,
+                "weed_pollen": 4
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "Very High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616853600,
+            "createdAt": "2021-03-27T14:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 454,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616857200,
+            "createdAt": "2021-03-27T15:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 436,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616860800,
+            "createdAt": "2021-03-27T16:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 593,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616864400,
+            "createdAt": "2021-03-27T17:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 451,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616868000,
+            "createdAt": "2021-03-27T18:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 423,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616871600,
+            "createdAt": "2021-03-27T19:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 576,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616875200,
+            "createdAt": "2021-03-27T20:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 436,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616878800,
+            "createdAt": "2021-03-27T21:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 581,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616882400,
+            "createdAt": "2021-03-27T22:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 626,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616886000,
+            "createdAt": "2021-03-27T23:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 340,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616889600,
+            "createdAt": "2021-03-28T00:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 339,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616893200,
+            "createdAt": "2021-03-28T01:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 300,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616896800,
+            "createdAt": "2021-03-28T02:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 334,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616900400,
+            "createdAt": "2021-03-28T03:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 339,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616904000,
+            "createdAt": "2021-03-28T04:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 332,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616907600,
+            "createdAt": "2021-03-28T05:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 313,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616911200,
+            "createdAt": "2021-03-28T06:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 308,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616914800,
+            "createdAt": "2021-03-28T07:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 368,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616918400,
+            "createdAt": "2021-03-28T08:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 339,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616922000,
+            "createdAt": "2021-03-28T09:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 389,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616925600,
+            "createdAt": "2021-03-28T10:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 385,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616929200,
+            "createdAt": "2021-03-28T11:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 379,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616932800,
+            "createdAt": "2021-03-28T12:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 390,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616936400,
+            "createdAt": "2021-03-28T13:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 389,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616940000,
+            "createdAt": "2021-03-28T14:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 339,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616943600,
+            "createdAt": "2021-03-28T15:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 339,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616947200,
+            "createdAt": "2021-03-28T16:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 334,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616950800,
+            "createdAt": "2021-03-28T17:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 344,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616954400,
+            "createdAt": "2021-03-28T18:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 293,
+                "weed_pollen": 1
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616958000,
+            "createdAt": "2021-03-28T19:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 499,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616961600,
+            "createdAt": "2021-03-28T20:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 433,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616965200,
+            "createdAt": "2021-03-28T21:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 413,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616968800,
+            "createdAt": "2021-03-28T22:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 416,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616972400,
+            "createdAt": "2021-03-28T23:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 557,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616976000,
+            "createdAt": "2021-03-29T00:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 623,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616979600,
+            "createdAt": "2021-03-29T01:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 574,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616983200,
+            "createdAt": "2021-03-29T02:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 562,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616986800,
+            "createdAt": "2021-03-29T03:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 632,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616990400,
+            "createdAt": "2021-03-29T04:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 629,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616994000,
+            "createdAt": "2021-03-29T05:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 649,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1616997600,
+            "createdAt": "2021-03-29T06:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 472,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617001200,
+            "createdAt": "2021-03-29T07:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 531,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617004800,
+            "createdAt": "2021-03-29T08:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 667,
+                "weed_pollen": 4
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617008400,
+            "createdAt": "2021-03-29T09:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 435,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617012000,
+            "createdAt": "2021-03-29T10:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 468,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617015600,
+            "createdAt": "2021-03-29T11:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 2,
+                "tree_pollen": 540,
+                "weed_pollen": 3
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617019200,
+            "createdAt": "2021-03-29T12:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 494,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617022800,
+            "createdAt": "2021-03-29T13:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 471,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617026400,
+            "createdAt": "2021-03-29T14:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 445,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617030000,
+            "createdAt": "2021-03-29T15:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 378,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617033600,
+            "createdAt": "2021-03-29T16:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 454,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617037200,
+            "createdAt": "2021-03-29T17:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 445,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617040800,
+            "createdAt": "2021-03-29T18:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 456,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617044400,
+            "createdAt": "2021-03-29T19:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 450,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617048000,
+            "createdAt": "2021-03-29T20:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 406,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617051600,
+            "createdAt": "2021-03-29T21:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 409,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617055200,
+            "createdAt": "2021-03-29T22:00:00.000Z"
+        },
+        {
+            "Count": {
+                "grass_pollen": 1,
+                "tree_pollen": 404,
+                "weed_pollen": 2
+            },
+            "Risk": {
+                "grass_pollen": "Low",
+                "tree_pollen": "High",
+                "weed_pollen": "Low"
+            },
+            "time": 1617058800,
+            "createdAt": "2021-03-29T23:00:00.000Z"
+        }
+    ]
+}
