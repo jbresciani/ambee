@@ -45,6 +45,7 @@ def get_ambee_historical_data(city, data_type, from_date=None, to_date=None):
         dictionary response from ambee
     """
     ambee_base_url = "https://api.ambeedata.com"
+    ambee_api_key = os.environ['AMBEE_API_KEY']
     date_range = ""
     time_frame = "latest"
 
@@ -55,23 +56,25 @@ def get_ambee_historical_data(city, data_type, from_date=None, to_date=None):
     if to_date:
         if not from_date:
             raise Exception("from_date required when to_date provided")
-#        date_range = "from=2021-03-22 00:00:00&to=2021-03-25 23:59:59"
         date_range = f"&from={from_date}&to={to_date}"
         time_frame = "history"
 
-    headers = {
-        "x-api-key": os.environ['AMBEE_API_KEY'],
-        "Content-type": "application/json"
-    }
-
     if data_type == "air":
+        ambee_api_key = os.environ['AIR_API_KEY']
         ambee_url = f"{ambee_base_url}/{time_frame}/by-lat-lng?lat={latitude}&lng={longitude}{date_range}"
     elif data_type == "weather":
+        ambee_api_key = os.environ['WEATHER_API_KEY']
         ambee_url = f"{ambee_base_url}/{data_type}/{time_frame}/by-lat-lng?lat={latitude}&lng={longitude}{date_range}"
     elif data_type == "pollen":
+        ambee_api_key = os.environ['AIR_API_KEY']
         ambee_url = f"{ambee_base_url}/{time_frame}/{data_type}/by-lat-lng?lat={latitude}&lng={longitude}{date_range}"
     else:
         raise Exception(f"unknown data_type ({data_type})")
+
+    headers = {
+        "x-api-key": ambee_api_key,
+        "Content-type": "application/json"
+    }
 
     response = requests.get(f"{ambee_url}", headers=headers)
     response.raise_for_status()
@@ -91,6 +94,7 @@ def get_ambee_latest_data(city, data_type, from_date=None, to_date=None):
         dictionary response from ambee
     """
     ambee_base_url = "https://api.ambeedata.com"
+    ambee_api_key = os.environ['AMBEE_API_KEY']
     date_range = ""
     time_frame = "latest"
 
@@ -101,10 +105,8 @@ def get_ambee_latest_data(city, data_type, from_date=None, to_date=None):
     if to_date:
         if not from_date:
             raise Exception("from_date required when to_date provided")
-#        date_range = "from=2021-03-22 00:00:00&to=2021-03-25 23:59:59"
         date_range = f"&from={from_date}&to={to_date}"
         time_frame = "history"
-
     if data_type == "air":
         ambee_url = f"{ambee_base_url}/{time_frame}/by-lat-lng?lat={latitude}&lng={longitude}{date_range}"
     elif data_type == "weather":
@@ -117,7 +119,7 @@ def get_ambee_latest_data(city, data_type, from_date=None, to_date=None):
         raise Exception(f"unknown data_type ({data_type})")
 
     headers = {
-        "x-api-key": os.environ['AMBEE_API_KEY'],
+        "x-api-key": ambee_api_key,
         "Content-type": "application/json"
     }
     response = requests.get(f"{ambee_url}", headers=headers)
@@ -126,8 +128,8 @@ def get_ambee_latest_data(city, data_type, from_date=None, to_date=None):
 
 
 city = "victoria"
-data_types = ["air", "weather", "pollen"]
-time_ranges = [("2021-03-26 00:00:00", "2021-03-29 23:59:59")]
+data_types = ["air", "pollen", "weather"]
+time_ranges = [("2021-03-30 00:00:00", "2021-04-02 23:59:59")]
 for time_range in time_ranges:
     for data_type in data_types:
         ambee_data = get_ambee_historical_data(city, data_type, time_range[0], time_range[1])
